@@ -7,6 +7,6 @@
 
 @media (max-width:576px) {
   .main-div {
-    width: max-content;
+    width: max-content !important;
   }
 }
