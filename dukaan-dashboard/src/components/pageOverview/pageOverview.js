@@ -16,7 +16,7 @@ const PageOverview = () => {
         </div>
       </div>
       <div className='overview-bottom'>
-        <div className='overview-orders'>
+        <div style={{marginRight:'0.5rem'}} className='overview-orders'>
           <div className='online-orders'>
             Online orders
           </div>
@@ -24,7 +24,7 @@ const PageOverview = () => {
             231
           </div>
         </div>
-        <div className='overview-orders'>
+        <div style={{marginLeft:'0.5rem'}} className='overview-orders'>
           <div className='online-orders'>
             Amount received
           </div>

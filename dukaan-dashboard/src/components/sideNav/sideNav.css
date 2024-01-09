@@ -15,6 +15,11 @@
     flex: 1 0 0;
 }
 
+.page-section:hover {
+    background-color:#353C53;
+    border-radius: 0.25rem;
+}
+
 .sidenav-storeinfo {
     display: flex;
     /* background-color: red; */
